@@ -1,7 +1,9 @@
 [
     {
         "id": 1,
+        "brand": "IFB",
         "product_name": "Elena SXN 6510",
+        "product_detail": "IFB Elena SXS Front Load Washing Machine 6.5 kg | 1000 rpm | Silver",
         "capacity": "6.5kg | 1000",
         "color": {
             "bodyColor": "Rich Silver",
@@ -19,7 +21,9 @@
     },
     {
         "id": 2,
+        "brand": "IFB",
         "product_name": "Senorita MSN 6512K",
+        "product_detail": "IFB Senorita MSN 6512K Front Load Washing Machine 6.5 Kg | 1200 rpm | Metallic Silver",
         "capacity": "6.5kg | 1200",
         "color": {
             "bodyColor": "Metallic Silver",
@@ -37,7 +41,9 @@
     },
     {
         "id": 3,
+        "brand": "IFB",
         "product_name": "Senorita BXN 6512",
+        "product_detail": "IFB Senorita BXN 6512 Front Load Washing Machine 6.5 kg | 1200 | Black",
         "capacity": "6.5kg | 1200",
         "color": {
             "bodyColor": "Black",
@@ -55,7 +61,9 @@
     },
     {
         "id": 4,
+        "brand": "IFB",
         "product_name": "Senorita SXN 6512K",
+        "product_detail": "IFB Senorita SXN 6512K Front Load Washing Machine 6.5 kg | 1200 | Rich Silver",
         "capacity": "6.5kg | 1200",
         "color": {
             "bodyColor": "Rich Silver",
@@ -73,7 +81,9 @@
     },
     {
         "id": 5,
+        "brand": "IFB",
         "product_name": "TL701AG1",
+        "product_detail": "IFB TL701AG1 Top Load Washing Machine 7 kg | 720 rpm | Anthracite Grey",
         "capacity": "7kg | 720",
         "color": {
             "bodyColor": "Anthracite Grey",
@@ -91,7 +101,9 @@
     },
     {
         "id": 6,
+        "brand": "IFB",
         "product_name": "TL-SIBS",
+        "product_detail": "IFB TL-SIBS 10.0KG AQUA Top Load Washing Machine 720 rpm | Inox",
         "capacity": "10kg | 720",
         "color": {
             "bodyColor": "Inox Finish",
@@ -109,7 +121,9 @@
     },
     {
         "id": 7,
+        "brand": "IFB",
         "product_name": "TL801MB1S",
+        "product_detail": "IFB TL801MB1S Top Load Washing Machine 8 kg | 720 rpm | Mid Night Black",
         "capacity": "8kg | 720",
         "color": {
             "bodyColor": "Mid Night Black",
@@ -127,7 +141,9 @@
     },
     {
         "id": 8,
+        "brand": "IFB",
         "product_name": "TL-S4RBS",
+        "product_detail": "IFB TL-S4RBS 10.0KG AQUA Top Load Washing Machine 720 rpm | Royal Blue",
         "capacity": "10kg | 720",
         "color": {
             "bodyColor": "Royal Blue",
@@ -145,7 +161,9 @@
     },
     {
         "id": 9,
+        "brand": "IFB",
         "product_name": "TL-REW",
+        "product_detail": "IFB TL - REW 6.5 kg Aqua Top Load Washing Machine 720 rpm | White",
         "capacity": "6.5kg | 720",
         "color": {
             "bodyColor": "White",
@@ -163,7 +181,9 @@
     },
     {
         "id": 10,
+        "brand": "IFB",
         "product_name": "TL-RBR",
+        "product_detail": "IFB TL - RBR 6.5 kg Aqua Top Load Washing Machine 6.5 kg | 720 rpm | Brown",
         "capacity": "6.5kg | 720",
         "color": {
             "bodyColor": "Brown",
@@ -177,6 +197,106 @@
             "Key_Features": "Smart Sense : An inbuilt smart sensing mechanism automatically weighs the load and adjusts settings accordingly to save water and detergent.",
             "Additional_Features": "Aqua Energie : IFB's patented Aqua Energie treats hard water and improves detergent action to protect color and prevent fading.",
             "Wash Programs": "3D Wash : Soaks clothes thoroughly to deliver an excellent wash."
+        }
+    },
+    {
+        "id": 11,
+        "brand": "IFB",
+        "product_name": "TL-RGS",
+        "product_detail": "IFB TL - RGS 7 kg Aqua Top Load Washing Machine 720 rpm | Medium Grey",
+        "capacity": "7kg | 720",
+        "color": {
+            "bodyColor": "Medium Grey",
+            "doorColor": "Molded - Medium Grey"
+        },
+        "size": "570 x 590 x 950",
+        "category": "washing_machine",
+        "netWeight": "37kg",
+        "product_img": "./washingMachineImg/tl_rgs_7_top_load_fv_1.webp",
+        "discription": {
+            "Key_Features": "Powered By AI : A neural network-based algorithm detects fabric type and weight. It then optimises the wash—duration, water level, wash actions and the level of gentleness needed.",
+            "Additional_Features": "Aqua Energie : IFB's patented Aqua Energie treats hard water and improves detergent action to protect color and prevent fading.",
+            "Wash Programs": "Ease Of Mobility : Just tilt the machine backwards and roll it to move it around. Two wheels at the back of the machine enable quick mobility."
+        }
+    },
+    {
+        "id": 12,
+        "brand": "LG",
+        "product_name": "P115ASDAZ",
+        "product_detail": "LG 11.5Kg Semi Automatic Top Load Washing Machine, Roller Jet Pulsator + Soak, Burgundy",
+        "capacity": "11kg | 720",
+        "color": {
+            "bodyColor": "Full Burgundy",
+            "doorColor": "Full Burgundy"
+        },
+        "size": "905 x 1025 x 545",
+        "category": "washing_machine",
+        "netWeight": "32kg",
+        "product_img": "./washingMachineImg/P115ASDAZ-Basic-450.avif",
+        "discription": {
+            "Key_Features": "Wind Jet Dry Reduces remaining moisture on laundry and inside of washing machine by Spin tub rotating at high RPM, air comes into the tub and is circulated inside which removes water. Circulation of air through air vents dries clothes.",
+            "Additional_Features": "Auto Restart allows the program to restart all by itself in case of power failure. It resumes from stage where it stopped, however, the wash cycle time may vary.",
+            "Wash Programs": "The machine’s unique soak process soaks clothes in a concentrated detergent solution to help loosen tough dirt particles."
+        }
+    },
+    {
+        "id": 13,
+        "brand": "LG",
+        "product_name": "P7020NGAZ",
+        "product_detail": "LG 7Kg Semi Automatic Top Load Washing Machine, Rat Away Technology, Dark Gray",
+        "capacity": "7kg | 720",
+        "color": {
+            "bodyColor": "Dark Grey",
+            "doorColor": "Dark Grey"
+        },
+        "size": "810 x 480 x 980",
+        "category": "washing_machine",
+        "netWeight": "26kg",
+        "product_img": "./washingMachineImg/P7020NGAZ-Washing-Machines-Front-View-450.avif",
+        "discription": {
+            "Key_Features": "The machine has 3 different wash programs(Gentle, Normal, Strong) ensuring a safe and customized wash for every fabric type.",
+            "Additional_Features": "The lint filter collects the lint which come out while washing clothes. The fabric thus do not get stuck in the pipe, thus gives a better washing performance.",
+            "Wash Programs": "Its unique collar scrubber helps you scrub cuffs and collars, saving your time and efforts."
+        }
+    },
+    {
+        "id": 14,
+        "brand": "LG",
+        "product_name": "P105ASRAZ",
+        "product_detail": "LG 10.5Kg Semi Automatic Top Load Washing Machine, Roller Jet Pulsator + Soak, Burgundy",
+        "capacity": "10.5kg | 720",
+        "color": {
+            "bodyColor": "Burgundy",
+            "doorColor": "Burgundy"
+        },
+        "size": "905 x 1025 x 545",
+        "category": "washing_machine",
+        "netWeight": "32kg",
+        "product_img": "./washingMachineImg/P105ASRAZ-Washing-Machines-Front-View-450.avif",
+        "discription": {
+            "Key_Features": "Wind Jet Dry Reduces remaining moisture on laundry and inside of washing machine by Spin tub rotating at high RPM, air comes into the tub and is circulated inside which removes water. Circulation of air through air vents dries clothes.",
+            "Additional_Features": "Auto Restart allows the program to restart all by itself in case of power failure. It resumes from stage where it stopped, however, the wash cycle time may vary.",
+            "Wash Programs": "The machine’s unique soak process soaks clothes in a concentrated detergent solution to help loosen tough dirt particles."
+        }
+    },
+    {
+        "id": 15,
+        "brand": "LG",
+        "product_name": "P8015SBAZ",
+        "product_detail": "LG 8Kg Semi Automatic Top Load Washing Machine, Roller Jet Pulsator + Soak, Dark Blue",
+        "capacity": "8kg | 720",
+        "color": {
+            "bodyColor": "Full Dark Blue",
+            "doorColor": "Full Dark Blue"
+        },
+        "size": "795 x 975 x 480",
+        "category": "washing_machine",
+        "netWeight": "25kg",
+        "product_img": "./washingMachineImg/P8015SBAZ-Basic-450.avif",
+        "discription": {
+            "Key_Features": "Wind Jet Dry Reduces remaining moisture on laundry and inside of washing machine by Spin tub rotating at high RPM, air comes into the tub and is circulated inside which removes water. Circulation of air through air vents dries clothes",
+            "Additional_Features": "The lint filter collects the lint which come out while washing clothes. The fabric thus do not get stuck in the pipe, thus gives a better washing performance",
+            "Wash Programs": "The machine’s unique soak process soaks clothes in a concentrated detergent solution to help loosen tough dirt particles."
         }
     }
 ]
