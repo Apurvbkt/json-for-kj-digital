@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "product_name": "Elena SXN 6510",
+        "capacity": "6.5kg | 1000",
+        "color": {
+            "bodyColor": "Rich Silver",
+            "doorColor": "Black"
+        },
+        "size": "603 X 518 X 875",
+        "category": "washing_machine",
+        "netWeight": "65kg",
+        "product_img": "/washingMachineImg/elena_sxs_6.5kg_front_load_fv.webp",
+        "discription": {
+            "Key_Features": "Powered by Ai, Power Steam®, 9 Swirl Wash, Refresh",
+            "Additional_Features": "3D Wash, Eco Inverter Motor, Aqua Energie, load Sensing, Touch Control",
+            "Wash Programs": "MixDaily, Cotton, Baby Wear, Refresh, Express'15, Wool, Synthetic, Cradle Wash®, SpinDry/Rinse, Bulky, Tub Clean"
+        }
+    },
+    {
+        "id": 2,
+        "product_name": "Senorita MSN 6512K",
+        "capacity": "6.5kg | 1200",
+        "color": {
+            "bodyColor": "Metallic Silver",
+            "doorColor": "Black"
+        },
+        "size": "598 X 518 X 875",
+        "category": "washing_machine",
+        "netWeight": "66kg",
+        "product_img": "/washingMachineImg/senorita-msn-k_6.5kg-fv300.webp",
+        "discription": {
+            "Key_Features": "Powered by Ai, Power Steam®, 9 Swirl Wash, Refresh, Warm Soak",
+            "Additional_Features": "3D Wash, Eco Inverter Motor, Aqua Energie, load Sensing, Touch Control, Time Saver",
+            "Wash Programs": "sh, Refresh, Warm Soak MixDaily, Cotton, Baby Wear, Refresh, Express'15, Wool, Synthetic, Cradle Wash®, SpinDry/ Rinse, Bulky, Tub Clean"
+        }
+    },
+    {
+        "id": 3,
+        "product_name": "Senorita BXN 6512",
+        "capacity": "6.5kg | 1200",
+        "color": {
+            "bodyColor": "Black",
+            "doorColor": "Black with Chrome"
+        },
+        "size": "598 X 518 X 875",
+        "category": "washing_machine",
+        "netWeight": "66kg",
+        "product_img": "/washingMachineImg/senorita-bxn-6.5kg-fv.webp",
+        "discription": {
+            "Key_Features": "Powered by Ai, Power Steam®, 9 Swirl Wash, Refresh",
+            "Additional_Features": "3D Wash, Eco Inverter Motor, Aqua Energie, load Sensing, Touch Control",
+            "Wash Programs": "MixDaily, Cotton, Baby Wear, Refresh, Express'15, Wool, Synthetic, Cradle Wash®, SpinDry/Rinse, Bulky, Tub Clean"
+        }
+    },
+    {
+        "id": 4,
+        "product_name": "Senorita SXN 6512K",
+        "capacity": "6.5kg | 1200",
+        "color": {
+            "bodyColor": "Rich Silver",
+            "doorColor": "Black"
+        },
+        "size": "598 X 518 X 875",
+        "category": "washing_machine",
+        "netWeight": "66kg",
+        "product_img": "./washingMachineImg/senorita-sxn-k-6.5kg-fv_1.webp",
+        "discription": {
+            "Key_Features": "Powered by Ai, Power Steam®, 9 Swirl Wash, Refresh, Warm Soak",
+            "Additional_Features": "3D Wash, Eco Inverter Motor, Aqua Energie, load Sensing, Touch Control, Time Saver",
+            "Wash Programs": "sh, Refresh, Warm Soak MixDaily, Cotton, Baby Wear, Refresh, Express'15, Wool, Synthetic, Cradle Wash®, SpinDry/ Rinse, Bulky, Tub Clean"
+        }
+    },
+    {
+        "id": 5,
+        "product_name": "TL701AG1",
+        "capacity": "7kg | 720",
+        "color": {
+            "bodyColor": "Anthracite Grey",
+            "doorColor": "Stainless Steel"
+        },
+        "size": "543 x 575 x 946",
+        "category": "washing_machine",
+        "netWeight": "31kg",
+        "product_img": "./washingMachineImg/tl-701ag1-fv.webp",
+        "discription": {
+            "Key_Features": "Powered By AI : A neural network-based algorithm detects fabric type and weight. It then optimises the wash—duration, water level, wash    actions and the level of gentleness needed.",
+            "Additional_Features": "Active Mix : Premixes water and detergent for better and faster detergent action.",
+            "Wash Programs": "Aqua Energie : IFB's patented Aqua Energie treats hard water and improves detergent action to protect color and prevent fading."
+        }
+    },
+    {
+        "id": 6,
+        "product_name": "TL-SIBS",
+        "capacity": "10kg | 720",
+        "color": {
+            "bodyColor": "Inox Finish",
+            "doorColor": "Glass Transparent"
+        },
+        "size": "620 x 640 x 1030",
+        "category": "washing_machine",
+        "netWeight": "31kg",
+        "product_img": "./washingMachineImg/tl-sibs_10.0kg_fv.webp",
+        "discription": {
+            "Key_Features": "Powered By AI : A neural network-based algorithm detects fabric type and weight. It then optimises the wash—duration, water level, wash actions and the level of gentleness needed.",
+            "Additional_Features": "Power Steam® : 99.99% germ-free clothes with a Dual Steam Cycle and Hot Wash up to 60˚C. Get the highest level of hygiene for your laundry.",
+            "Wash Programs": "Hot Wash At 60°C : State-of-the-art heater technology tested to last at least 10 years. Scale proof, rust proof and even saves you energy while giving you 99.99% germ free washing!"
+        }
+    },
+    {
+        "id": 7,
+        "product_name": "TL801MB1S",
+        "capacity": "8kg | 720",
+        "color": {
+            "bodyColor": "Mid Night Black",
+            "doorColor": "Stainless Steel"
+        },
+        "size": "543 x 575 x 946",
+        "category": "washing_machine",
+        "netWeight": "31kg",
+        "product_img": "./washingMachineImg/tl-801mb1s-fv.webp",
+        "discription": {
+            "Key_Features": "Powered By AI : A neural network-based algorithm detects fabric type and weight. It then optimises the wash—duration, water level, wash actions and the level of gentleness needed.",
+            "Additional_Features": "Active Mix : Premixes water and detergent for better and faster detergent action.",
+            "Wash Programs": "Power Steam® : 99.99% germ-free clothes with a Dual Steam Cycle and Hot Wash up to 60˚C. Get the highest level of hygiene for your laundry."
+        }
+    },
+    {
+        "id": 8,
+        "product_name": "TL-S4RBS",
+        "capacity": "10kg | 720",
+        "color": {
+            "bodyColor": "Royal Blue",
+            "doorColor": "Glass Transparent"
+        },
+        "size": "620 x 640 x 1000",
+        "category": "washing_machine",
+        "netWeight": "45kg",
+        "product_img": "./washingMachineImg/tl-s4rbs_10kg_tl_fv.webp",
+        "discription": {
+            "Key_Features": "Powered By AI : A neural network-based algorithm detects fabric type and weight. It then optimises the wash—duration, water level, wash actions and the level of gentleness needed.",
+            "Additional_Features": "Hot Wash At 60°C : State-of-the-art heater technology tested to last at least 10 years. Scale proof, rust proof and even saves you energy while giving you 99.99% germ free washing!",
+            "Wash Programs": "Power Steam® : 99.99% germ-free clothes with a Dual Steam Cycle and Hot Wash up to 60˚C. Get the highest level of hygiene for your laundry."
+        }
+    },
+    {
+        "id": 9,
+        "product_name": "TL-REW",
+        "capacity": "6.5kg | 720",
+        "color": {
+            "bodyColor": "White",
+            "doorColor": "Molded - White"
+        },
+        "size": "570 x 590 x 950",
+        "category": "washing_machine",
+        "netWeight": "35kg",
+        "product_img": "./washingMachineImg/tl-rew_6.5kg_fv.webp",
+        "discription": {
+            "Key_Features": "Lint Tower Filter : Traps lint and loose microfibres during washing, which otherwise are drained, affecting the environment. Easily removed for cleaning.",
+            "Additional_Features": "Aqua Energie : IFB's patented Aqua Energie treats hard water and improves detergent action to protect color and prevent fading.",
+            "Wash Programs": "Smart Sense : An inbuilt smart sensing mechanism automatically weighs the load and adjusts settings accordingly to save water and detergent."
+        }
+    },
+    {
+        "id": 10,
+        "product_name": "TL-RBR",
+        "capacity": "6.5kg | 720",
+        "color": {
+            "bodyColor": "Brown",
+            "doorColor": "Tempered Glass with Chrome Ring"
+        },
+        "size": "570 x 590 x 950",
+        "category": "washing_machine",
+        "netWeight": "37kg",
+        "product_img": "./washingMachineImg/tl_rbr_6.5kg_front_load_fv.webp",
+        "discription": {
+            "Key_Features": "Smart Sense : An inbuilt smart sensing mechanism automatically weighs the load and adjusts settings accordingly to save water and detergent.",
+            "Additional_Features": "Aqua Energie : IFB's patented Aqua Energie treats hard water and improves detergent action to protect color and prevent fading.",
+            "Wash Programs": "3D Wash : Soaks clothes thoroughly to deliver an excellent wash."
+        }
+    }
+]
