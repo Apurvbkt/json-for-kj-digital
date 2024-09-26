@@ -598,5 +598,350 @@
             "Additional_Features": "Fast Ice : The metal infused ice tray forms ice cubes in less than 60 minutes, so no more waiting for that ice cold drink.",
             "Feature_Programs": "Advanced Inverter Compressor : Advanced Invertor Technology delivers optimal cooling performance as well as savings due to its energy efficiency"
         }
+    },
+    {
+        "id": 31,
+        "brand": "IFB",
+        "product_name": "CI1453F213GN1",
+        "product_detail": "New IFB CI1453F213GN1 Air Conditioner 1 Ton | 5 Star | Grand Smart Series",
+        "capacity": "1 Ton",
+        "color": {
+            "bodyColor": "Ivory - Matte Finish with Rosegold Strip",
+            "doorColor": "Ivory - Matte Finish with Rosegold Strip"
+        },
+        "size": {
+            "Indoor Unit size": "900 x 206 x 294",
+            "Outdoor Unit size": "728 x 256 x 553"
+        },
+        "category": "Ac",
+        "netWeight": "7.5Kg",
+        "product_img": "./ac/id31.webp",
+        "discription": {
+            "Key_Features": "8 IN 1 : Allows you the choice to operate the AC at 8 different capacities based on your cooling requirements. Enables faster cooling and saves power.",
+            "Additional_Features": "Smart AC* : You can operate the IFB Smart AC from anywhere at anytime. It is voice command enabled and includes Auto Geo Sensing technology.",
+            "Feature_Programs": "Automotive Grade coating on ODU : The ODU is painted with a high temperature silver powder coating to protect it from rain, dust, ultraviolet sunlight and pollutants."
+        }
+    },
+    {
+        "id": 32,
+        "brand": "IFB",
+        "product_name": "CI1833F223GM1",
+        "product_detail": "IFB CI1833F223GM1 Air Conditioner 1.5 Ton | 3 Star | Grand Smart Series",
+        "capacity": "1.5 Ton",
+        "color": {
+            "bodyColor": "Ivory - Matte Finish with Rosegold Strip",
+            "doorColor": "Ivory - Matte Finish with Rosegold Strip"
+        },
+        "size": {
+            "Indoor Unit size": "900 x 206 x 294",
+            "Outdoor Unit size": "780 x 292 x 603"
+        },
+        "category": "Ac",
+        "netWeight": "13Kg",
+        "product_img": "./ac/id32.webp",
+        "discription": {
+            "Key_Features": "8 IN 1 : Allows you the choice to operate the AC at 8 different capacities based on your cooling requirements. Enables faster cooling and saves power.",
+            "Additional_Features": "Smart AC* : You can operate the IFB Smart AC from anywhere at anytime. It is voice command enabled and includes Auto Geo Sensing technology.",
+            "Feature_Programs": "Automotive Grade coating on ODU : The ODU is painted with a high temperature silver powder coating to protect it from rain, dust, ultraviolet sunlight and pollutants."
+        }
+    },
+    {
+        "id": 33,
+        "brand": "IFB",
+        "product_name": "CI2053F323GN1",
+        "product_detail": "IFB CI2053F323GN1 Air Conditioner 1.5 Ton | 3 Star | Grand Smart Series",
+        "capacity": "1.5 Ton",
+        "color": {
+            "bodyColor": "Ivory - Matte Finish with Rosegold Strip",
+            "doorColor": "Ivory - Matte Finish with Rosegold Strip"
+        },
+        "size": {
+            "Indoor Unit size": "1010 x 220 x 316",
+            "Outdoor Unit size": "780 x 292 x 603"
+        },
+        "category": "Ac",
+        "netWeight": "13Kg",
+        "product_img": "./ac/id33.webp",
+        "discription": {
+            "Key_Features": "8 IN 1 : Allows you the choice to operate the AC at 8 different capacities based on your cooling requirements. Enables faster cooling and saves power.",
+            "Additional_Features": "Smart AC* : You can operate the IFB Smart AC from anywhere at anytime. It is voice command enabled and includes Auto Geo Sensing technology.",
+            "Feature_Programs": "Automotive Grade coating on ODU : The ODU is painted with a high temperature silver powder coating to protect it from rain, dust, ultraviolet sunlight and pollutants."
+        }
+    },
+    {
+        "id": 34,
+        "brand": "IFB",
+        "product_name": "CI2433F323G4",
+        "product_detail": "IFB CI2433F323G4 Air Conditioner 2 Ton | 3 Star | Grand Smart Series",
+        "capacity": "2 Ton",
+        "color": {
+            "bodyColor": "Ivory - Matte Finish with Rosegold Strip",
+            "doorColor": "Ivory - Matte Finish with Rosegold Strip"
+        },
+        "size": {
+            "Indoor Unit size": "1010 x 220 x 316",
+            "Outdoor Unit size": "780 x 292 x 603"
+        },
+        "category": "Ac",
+        "netWeight": "15Kg",
+        "product_img": "./ac/id34.webp",
+        "discription": {
+            "Key_Features": "8 IN 1 : Allows you the choice to operate the AC at 8 different capacities based on your cooling requirements. Enables faster cooling and saves power.",
+            "Additional_Features": "Smart AC* : You can operate the IFB Smart AC from anywhere at anytime. It is voice command enabled and includes Auto Geo Sensing technology.",
+            "Feature_Programs": "Automotive Grade coating on ODU : The ODU is painted with a high temperature silver powder coating to protect it from rain, dust, ultraviolet sunlight and pollutants."
+        }
+    },
+    {
+        "id": 35,
+        "brand": "IFB",
+        "product_name": "CI1333E113GN1",
+        "product_detail": "IFB CI1333E113GN1 Air Conditioner 1 Ton | 3 Star |  Summer Smart Series",
+        "capacity": "1 Ton",
+        "color": {
+            "bodyColor": "Ivory -  Matte Finish with deco strip",
+            "doorColor": "Ivory -  Matte Finish with deco strip"
+        },
+        "size": {
+            "Indoor Unit size": "770 x 205 x 250",
+            "Outdoor Unit size": "728 x 256 x 520"
+        },
+        "category": "Ac",
+        "netWeight": "7.5Kg",
+        "product_img": "./ac/id35.webp",
+        "discription": {
+            "Key_Features": "8 IN 1 : Allows you the choice to operate the AC at 8 different capacities based on your cooling requirements. Enables faster cooling and saves power.",
+            "Additional_Features": "Smart AC* : You can operate the IFB Smart AC from anywhere at anytime. It is voice command enabled and includes Auto Geo Sensing technology.",
+            "Feature_Programs": "Automotive Grade coating on ODU : The ODU is painted with a high temperature silver powder coating to protect it from rain, dust, ultraviolet sunlight and pollutants."
+        }
+    },
+    {
+        "id": 36,
+        "brand": "IFB",
+        "product_name": "CI1833E223GN1",
+        "product_detail": "IFB CI1833E223GN1 Air Conditioner 1.5 Ton | 3 Star |  Summer Smart Series",
+        "capacity": "1.5 Ton",
+        "color": {
+            "bodyColor": "Ivory -  Matte Finish with deco strip",
+            "doorColor": "Ivory -  Matte Finish with deco strip"
+        },
+        "size": {
+            "Indoor Unit size": "900 x 206 x 294",
+            "Outdoor Unit size": "780 x 292 x 603"
+        },
+        "category": "Ac",
+        "netWeight": "13Kg",
+        "product_img": "./ac/id36.webp",
+        "discription": {
+            "Key_Features": "8 IN 1 : Allows you the choice to operate the AC at 8 different capacities based on your cooling requirements. Enables faster cooling and saves power.",
+            "Additional_Features": "Smart AC* : You can operate the IFB Smart AC from anywhere at anytime. It is voice command enabled and includes Auto Geo Sensing technology.",
+            "Feature_Programs": "Automotive Grade coating on ODU : The ODU is painted with a high temperature silver powder coating to protect it from rain, dust, ultraviolet sunlight and pollutants."
+        }
+    },
+    {
+        "id": 37,
+        "brand": "IFB",
+        "product_name": "CI1853E223GN1",
+        "product_detail": "IFB CI1853E223GN1 Air Conditioner 1.5 Ton | 3 Star |  Summer Smart Series",
+        "capacity": "1.5 Ton",
+        "color": {
+            "bodyColor": "Ivory -  Matte Finish with deco strip",
+            "doorColor": "Ivory -  Matte Finish with deco strip"
+        },
+        "size": {
+            "Indoor Unit size": "900 x 206 x 294",
+            "Outdoor Unit size": "780 x 292 x 603"
+        },
+        "category": "Ac",
+        "netWeight": "13Kg",
+        "product_img": "./ac/id37.webp",
+        "discription": {
+            "Key_Features": "8 IN 1 : Allows you the choice to operate the AC at 8 different capacities based on your cooling requirements. Enables faster cooling and saves power.",
+            "Additional_Features": "Smart AC* : You can operate the IFB Smart AC from anywhere at anytime. It is voice command enabled and includes Auto Geo Sensing technology.",
+            "Feature_Programs": "Automotive Grade coating on ODU : The ODU is painted with a high temperature silver powder coating to protect it from rain, dust, ultraviolet sunlight and pollutants."
+        }
+    },
+    {
+        "id": 38,
+        "brand": "IFB",
+        "product_name": "CI2433A323G4",
+        "product_detail": "IFB CI2433A323G4 Air Conditioner 2 Ton | 3 Star |  Advance Series",
+        "capacity": "1.5 Ton",
+        "color": {
+            "bodyColor": "Ivory -  Matte Finish with deco strip",
+            "doorColor": "Ivory -  Matte Finish with deco strip"
+        },
+        "size": {
+            "Indoor Unit size": "1010 x 316 x 220",
+            "Outdoor Unit size": "780 x 292 x 603"
+        },
+        "category": "Ac",
+        "netWeight": "13Kg",
+        "product_img": "./ac/id38.webp",
+        "discription": {
+            "Key_Features": "8 IN 1 : Allows you the choice to operate the AC at 8 different capacities based on your cooling requirements. Enables faster cooling and saves power.",
+            "Additional_Features": "Smart AC* : You can operate the IFB Smart AC from anywhere at anytime. It is voice command enabled and includes Auto Geo Sensing technology.",
+            "Feature_Programs": "Automotive Grade coating on ODU : The ODU is painted with a high temperature silver powder coating to protect it from rain, dust, ultraviolet sunlight and pollutants."
+        }
+    },
+    {
+        "id": 39,
+        "brand": "Haier",
+        "product_name": "HSU19P-JS5B(INV)",
+        "product_detail": "Haier 1.5 Ton 5 Star Split Inverter AC - Silver  (HSU19P-JS5B(INV), Copper Condenser)",
+        "capacity": "1.5 Ton",
+        "color": {
+            "bodyColor": "Silver",
+            "doorColor": "Silver"
+        },
+        "size": {
+            "Indoor Unit size": "1050 x 350 x 230",
+            "Outdoor Unit size": "800 x 550 x 270"
+        },
+        "category": "Ac",
+        "netWeight": "15Kg",
+        "product_img": "./ac/id39.webp",
+        "discription": {
+            "Key_Features": "5 Star BEE Rating 2020 : For energy savings upto 25% (compared to Non-Inverter 1 Star)",
+            "Additional_Features": "Auto Restart: No need to manually reset the settings post power-cut",
+            "Feature_Programs": "Copper : Energy efficient, best in class cooling with easy maintenance."
+        }
+    },
+    {
+        "id": 40,
+        "brand": "LG",
+        "product_name": "TS-Q19YNZE",
+        "product_detail": "LG AI Convertible 6-in-1 Cooling 2024 Model 1.5 Ton 5 Star Split Inverter 4 Way Swing, HD Filter with Anti-Virus Protection AC with VIRAAT Mode & ADC Sensor AC - White  (TS-Q19YNZE, Copper Condenser)",
+        "capacity": "1.5 Ton",
+        "color": {
+            "bodyColor": "White",
+            "doorColor": "White"
+        },
+        "size": {
+            "Indoor Unit size": "990 x 350 x 210",
+            "Outdoor Unit size": "770 x 550 x 280"
+        },
+        "category": "Ac",
+        "netWeight": "11Kg",
+        "product_img": "./ac/id40.webp",
+        "discription": {
+            "Key_Features": "5 Star BEE Rating 2020 : For energy savings upto 25% (compared to Non-Inverter 1 Star)",
+            "Additional_Features": "Auto Restart: No need to manually reset the settings post power-cut",
+            "Feature_Programs": "Copper : Energy efficient, best in class cooling with easy maintenance."
+        }
+    },
+    {
+        "id": 41,
+        "brand": "Samsung",
+        "product_name": "AR12RG3BAWK",
+        "product_detail": "Samsung 1 Ton 3 Star Fixed Speed Split AC (Copper, AR12RG3BAWK, 2022 Model, White)",
+        "capacity": "1 Ton",
+        "color": {
+            "bodyColor": "White",
+            "doorColor": "White"
+        },
+        "size": {
+            "Indoor Unit size": "880 x 360 x 290",
+            "Outdoor Unit size": "770 x 550 x 280"
+        },
+        "category": "Ac",
+        "netWeight": "11Kg",
+        "product_img": "./ac/id41.jpg",
+        "discription": {
+            "Key_Features": "5 Star BEE Rating 2020 : For energy savings upto 25% (compared to Non-Inverter 1 Star)",
+            "Additional_Features": "Auto Restart: No need to manually reset the settings post power-cut",
+            "Feature_Programs": "Copper : Energy efficient, best in class cooling with easy maintenance."
+        }
+    },
+    {
+        "id": 42,
+        "brand": "Samsung",
+        "product_name": "AR18TV3HFTZ",
+        "product_detail": "Samsung 1.5 Ton 3 Star Inverter Split AC (Copper AR18TV3HFTZ White Paradise Bloom)",
+        "capacity": "1.5 Ton",
+        "color": {
+            "bodyColor": "White",
+            "doorColor": "White"
+        },
+        "size": {
+            "Indoor Unit size": "940 x 360 x 290",
+            "Outdoor Unit size": "770 x 550 x 280"
+        },
+        "category": "Ac",
+        "netWeight": "11Kg",
+        "product_img": "./ac/id42.webp",
+        "discription": {
+            "Key_Features": "Split AC with inverter compressor: Variable speed compressor which adjusts power depending on heat load. It is most energy efficient and has lowest-noise operation",
+            "Additional_Features": "Copper Condenser Coil: Better cooling and requires low maintenance",
+            "Feature_Programs": "Additional features: Dehumidifier , Anti-bacterial filter"
+        }
+    },
+    {
+        "id": 43,
+        "brand": "IFB",
+        "product_name": "C12432A323G4",
+        "product_detail": "IFB C12432A323G4 Air Conditioner 2 Ton | 3 Star | Advance Series",
+        "capacity": "2 Ton",
+        "color": {
+            "bodyColor": "Ivory - Matte Finish",
+            "doorColor": "Ivory - Matte Finish"
+        },
+        "size": {
+            "Indoor Unit size": "1010 x 315 x 220",
+            "Outdoor Unit size": "780 x 292 x 603"
+        },
+        "category": "Ac",
+        "netWeight": "31kg",
+        "product_img": "./ac/id43.webp",
+        "discription": {
+            "Key_Features": "WiFi Compatible* : The WiFi feature allows you to operate your AC remotely, at your convenience.",
+            "Additional_Features": "8 IN 1 : Allows you the choice to operate the AC at 8 different capacities based on your cooling requirements. Enables faster cooling and saves power.",
+            "Feature_Programs": "Automotive Grade coating on ODU : The ODU is painted with a high temperature silver powder coating to protect it from rain, dust, ultraviolet sunlight and pollutants."
+        }
+    },
+    {
+        "id": 44,
+        "brand": "IFB",
+        "product_name": "CI1852D223GN1",
+        "product_detail": "IFB CI1852D223GN1 Air Conditioner 1.5 Ton | 5 Star | Summer Series",
+        "capacity": "1.5 Ton",
+        "color": {
+            "bodyColor": "Ivory - Matte Finish with deco strip",
+            "doorColor": "Ivory - Matte Finish with deco strip"
+        },
+        "size": {
+            "Indoor Unit size": "900 x 206 x 294",
+            "Outdoor Unit size": "780 x 292 x 603"
+        },
+        "category": "Ac",
+        "netWeight": "31kg",
+        "product_img": "./ac/id44.webp",
+        "discription": {
+            "Key_Features": "8 IN 1 : Allows you the choice to operate the AC at 8 different capacities based on your cooling requirements. Enables faster cooling and saves power.",
+            "Additional_Features": "WiFi Compatible* : The WiFi feature allows you to operate your AC remotely, at your convenience.",
+            "Feature_Programs": "Automotive Grade coating on ODU : The ODU is painted with a high temperature silver powder coating to protect it from rain, dust, ultraviolet sunlight and pollutants."
+        }
+    },
+    {
+        "id": 45,
+        "brand": "IFB",
+        "product_name": "HI1831G223GM1",
+        "product_detail": "IFB HI1831G223GM1 Air Conditioner 1.5 Ton | 3 Star | Hot & Cold Series",
+        "capacity": "1.5 Ton",
+        "color": {
+            "bodyColor": "Ivory - Matte Finish with deco strip",
+            "doorColor": "Ivory - Matte Finish with deco strip"
+        },
+        "size": {
+            "Indoor Unit size": "900 x 206 x 294",
+            "Outdoor Unit size": "780 x 292 x 603"
+        },
+        "category": "Ac",
+        "netWeight": "15Kg",
+        "product_img": "./ac/id45.webp",
+        "discription": {
+            "Key_Features": "8 IN 1 : Allows you the choice to operate the AC at 8 different capacities based on your cooling requirements. Enables faster cooling and saves power.",
+            "Additional_Features": "WiFi Compatible* : The WiFi feature allows you to operate your AC remotely, at your convenience.",
+            "Feature_Programs": "Automotive Grade coating on ODU : The ODU is painted with a high temperature silver powder coating to protect it from rain, dust, ultraviolet sunlight and pollutants."
+        }
     }
 ]
