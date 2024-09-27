@@ -943,5 +943,305 @@
             "Additional_Features": "WiFi Compatible* : The WiFi feature allows you to operate your AC remotely, at your convenience.",
             "Feature_Programs": "Automotive Grade coating on ODU : The ODU is painted with a high temperature silver powder coating to protect it from rain, dust, ultraviolet sunlight and pollutants."
         }
+    },
+    {
+        "id": 46,
+        "brand": "IFB",
+        "product_name": "23SC3",
+        "product_detail": "IFB 23SC3 Convection Microwave 23 L | Silver",
+        "capacity": "23L",
+        "color": {
+            "bodyColor": "Silver",
+            "doorColor": "Stainless Steel"
+        },
+        "size": "281 x 483 x 390",
+        "category": "Microwave",
+        "netWeight": "16Kg",
+        "product_img": "./Microwave/id46.webp",
+        "discription": {
+            "Key_Features": "Oil Free Cooking : Cook using very little or no oil, enhancing the taste and nutrition of your food. Reheat, grill or bake.",
+            "Additional_Features": "Auto Defrost : Instantly soften frozen food. De-freeze frozen meat, poultry, seafood, veggies in no time.",
+            "Feature_Programs": "Multi-Stage Cooking : Stores 3 types of cooking cycles in its memory. Screen reader support enabled."
+        }
+    },
+    {
+        "id": 47,
+        "brand": "IFB",
+        "product_name": "25BC3",
+        "product_detail": "IFB 25BC3 Convection Microwave 25 L | Black",
+        "capacity": "25L",
+        "color": {
+            "bodyColor": "Black",
+            "doorColor": "Stainless Steel"
+        },
+        "size": "281 x 483 x 415",
+        "category": "Microwave",
+        "netWeight": "16Kg",
+        "product_img": "./Microwave/id47.webp",
+        "discription": {
+            "Key_Features": "Yoghurt : Enjoy creamy yoghurt at the touch of a finger using a pre-set auto cook menu.",
+            "Additional_Features": "Auto Cook Menus : Standard menus to help you explore new flavours and menus in the comfort of your home. Everything from kebabs, pizzas or popcorn!",
+            "Feature_Programs": "Power Levels : Vary the heat according to your dish; make overcooking a thing of the past."
+        }
+    },
+    {
+        "id": 48,
+        "brand": "IFB",
+        "product_name": "30BRC2",
+        "product_detail": "IFB 30BRC2 Rotisserie Convection Microwave 30 L | Black",
+        "capacity": "25L",
+        "color": {
+            "bodyColor": "Black",
+            "doorColor": "Stainless Steel"
+        },
+        "size": "300 × 539 × 440",
+        "category": "Microwave",
+        "netWeight": "19Kg",
+        "product_img": "./Microwave/id48.webp",
+        "discription": {
+            "Key_Features": "Auto Cook Menus : Standard menus to help you explore new flavours and menus in the comfort of your home. Everything from kebabs, pizzas or popcorn!",
+            "Additional_Features": "Fermentation : Ferment dough, batter or dairy products at your leisure.",
+            "Feature_Programs": "Rotisserie : Satisfy barbecue cravings. Perfect grilling every time! Ideal for kebabs and tikkas."
+        }
+    },
+    {
+        "id": 49,
+        "brand": "IFB",
+        "product_name": "23BC4",
+        "product_detail": "IFB 23BC4 Convection Microwave 23 L | Black",
+        "capacity": "23L",
+        "color": {
+            "bodyColor": "Black + Floral Design",
+            "doorColor": "Stainless Steel"
+        },
+        "size": "281 x 483 x 390",
+        "category": "Microwave",
+        "netWeight": "19Kg",
+        "product_img": "./Microwave/id49.webp",
+        "discription": {
+            "Key_Features": "Auto Cook Menus : Standard menus to help you explore new flavours and menus in the comfort of your home. Everything from kebabs, pizzas or popcorn!",
+            "Additional_Features": "Fermentation : Ferment dough, batter or dairy products at your leisure.",
+            "Feature_Programs": "Disinfect : Complete germ care for dishes and little one's essentials, sterilised in minutes."
+        }
+    },
+    {
+        "id": 50,
+        "brand": "IFB",
+        "product_name": "25SC4",
+        "product_detail": "IFB 25SC4 Convection Microwave 25 L | Metallic Silver",
+        "capacity": "25L",
+        "color": {
+            "bodyColor": "Metallic Silver",
+            "doorColor": "Stainless Steel"
+        },
+        "size": "281 x 483 x 414",
+        "category": "Microwave",
+        "netWeight": "16Kg",
+        "product_img": "./Microwave/id50.webp",
+        "discription": {
+            "Key_Features": "Auto Cook Menus : Standard menus to help you explore new flavours and menus in the comfort of your home. Everything from kebabs, pizzas or popcorn!",
+            "Additional_Features": "Steam Clean : Frees your microwave of grease and food odour in a matter of minutes using steam. Ideal after cooking or heating spicy or oily food.",
+            "Feature_Programs": "Keep Warm : Uses a low power level to keep the temperature of your food warm without overcooking it."
+        }
+    },
+    {
+        "id": 51,
+        "brand": "IFB",
+        "product_name": "30FRC2",
+        "product_detail": "IFB 30FRC2 Rotisserie Convection Microwave 30 L | Black",
+        "capacity": "30L",
+        "color": {
+            "bodyColor": "Black + Floral Design",
+            "doorColor": "Stainless Steel"
+        },
+        "size": "300 x 539 x 440",
+        "category": "Microwave",
+        "netWeight": "19Kg",
+        "product_img": "./Microwave/id51.webp",
+        "discription": {
+            "Key_Features": "Auto Cook Menus : Standard menus to help you explore new flavours and menus in the comfort of your home. Everything from kebabs, pizzas or popcorn!",
+            "Additional_Features": "Fermentation : Ferment dough, batter or dairy products at your leisure.",
+            "Feature_Programs": "Rotisserie : Satisfy barbecue cravings. Perfect grilling every time! Ideal for kebabs and tikkas."
+        }
+    },
+    {
+        "id": 52,
+        "brand": "IFB",
+        "product_name": "20BC4",
+        "product_detail": "IFB 20BC4 Convection Microwave 20 L | Black",
+        "capacity": "20L",
+        "color": {
+            "bodyColor": "Black",
+            "doorColor": "Stainless Steel"
+        },
+        "size": "262 x 452 x 390",
+        "category": "Microwave",
+        "netWeight": "15Kg",
+        "product_img": "./Microwave/id52.webp",
+        "discription": {
+            "Key_Features": "Auto Cook Menus : Standard menus to help you explore new flavours and menus in the comfort of your home. Everything from kebabs, pizzas or popcorn!",
+            "Additional_Features": "Fermentation : Ferment dough, batter or dairy products at your leisure.",
+            "Feature_Programs": "Keep Warm : Uses a low power level to keep the temperature of your food warm without overcooking it."
+        }
+    },
+    {
+        "id": 53,
+        "brand": "IFB",
+        "product_name": "25BC4",
+        "product_detail": "IFB 25BC4 Convection Microwave 25 L | Black",
+        "capacity": "25L",
+        "color": {
+            "bodyColor": "Black + Floral Design",
+            "doorColor": "Stainless Steel"
+        },
+        "size": "281 x 483 x 415",
+        "category": "Microwave",
+        "netWeight": "16Kg",
+        "product_img": "./Microwave/id53.webp",
+        "discription": {
+            "Key_Features": "Auto Cook Menus : Standard menus to help you explore new flavours and menus in the comfort of your home. Everything from kebabs, pizzas or popcorn!",
+            "Additional_Features": "Fermentation : Ferment dough, batter or dairy products at your leisure.",
+            "Feature_Programs": "Steam Clean : Frees your microwave of grease and food odour in a matter of minutes using steam. Ideal after cooking or heating spicy or oily food."
+        }
+    },
+    {
+        "id": 54,
+        "brand": "IFB",
+        "product_name": "28BC5",
+        "product_detail": "IFB 28BC5 Convection Microwave 28 L | Black",
+        "capacity": "28L",
+        "color": {
+            "bodyColor": "Black",
+            "doorColor": "Stainless Steel"
+        },
+        "size": "495 x 435 x 290",
+        "category": "Microwave",
+        "netWeight": "15.8Kg",
+        "product_img": "./Microwave/id54.webp",
+        "discription": {
+            "Key_Features": "Auto Cook Menus : Standard menus to help you explore new flavours and menus in the comfort of your home. Everything from kebabs, pizzas or popcorn!",
+            "Additional_Features": "Keep Warm : Uses a low power level to keep the temperature of your food warm without overcooking it.",
+            "Feature_Programs": "Oil Free Cooking : Cook using very little or no oil, enhancing the taste and nutrition of your food. Reheat, grill or bake."
+        }
+    },
+    {
+        "id": 55,
+        "brand": "IFB",
+        "product_name": "30BRC3",
+        "product_detail": "New IFB 30BRC3 Rotisserie Convection Microwave 30 L | Black",
+        "capacity": "30L",
+        "color": {
+            "bodyColor": "Black",
+            "doorColor": "Stainless Steel"
+        },
+        "size": "300 × 539 × 440",
+        "category": "Microwave",
+        "netWeight": "19Kg",
+        "product_img": "./Microwave/id55.webp",
+        "discription": {
+            "Key_Features": "Auto Cook Menus : Standard menus to help you explore new flavours and menus in the comfort of your home. Everything from kebabs, pizzas or popcorn!",
+            "Additional_Features": "Fermentation : Ferment dough, batter or dairy products at your leisure.",
+            "Feature_Programs": "Rotisserie : Satisfy barbecue cravings. Perfect grilling every time! Ideal for kebabs and tikkas."
+        }
+    },
+    {
+        "id": 56,
+        "brand": "IFB",
+        "product_name": "30SC4",
+        "product_detail": "IFB 30SC4 Convection Microwave 30 L | Metallic Silver",
+        "capacity": "30L",
+        "color": {
+            "bodyColor": "Metallic Silver",
+            "doorColor": "Stainless Steel"
+        },
+        "size": "300 x 539 x 440",
+        "category": "Microwave",
+        "netWeight": "18.4Kg",
+        "product_img": "./Microwave/id56.webp",
+        "discription": {
+            "Key_Features": "Auto Cook Menus : Standard menus to help you explore new flavours and menus in the comfort of your home. Everything from kebabs, pizzas or popcorn!",
+            "Additional_Features": "Auto Defrost : Instantly soften frozen food. De-freeze frozen meat, poultry, seafood, veggies in no time.",
+            "Feature_Programs": "Grill Mode : Enjoy well-done food in minutes as the double grill function works to distribute heat evenly."
+        }
+    },
+    {
+        "id": 57,
+        "brand": "IFB",
+        "product_name": "20BC5",
+        "product_detail": "IFB 20BC5 Convection Microwave 20 L | Black",
+        "capacity": "20L",
+        "color": {
+            "bodyColor": "Metallic Silver",
+            "doorColor": "Stainless Steel"
+        },
+        "size": "262 × 452 × 390",
+        "category": "Microwave",
+        "netWeight": "15Kg",
+        "product_img": "./Microwave/id57.webp",
+        "discription": {
+            "Key_Features": "Auto Cook Menus : Standard menus to help you explore new flavours and menus in the comfort of your home. Everything from kebabs, pizzas or popcorn!",
+            "Additional_Features": "Yoghurt : Enjoy creamy yoghurt at the touch of a finger using a pre-set auto cook menu.",
+            "Feature_Programs": "Oil Free Cooking : Cook using very little or no oil, enhancing the taste and nutrition of your food. Reheat, grill or bake."
+        }
+    },
+    {
+        "id": 58,
+        "brand": "LG",
+        "product_name": "MS2043DB",
+        "product_detail": "LG 20L Solo with Glass Door",
+        "capacity": "20L",
+        "color": {
+            "bodyColor": "Black",
+            "doorColor": "Stainless Steel"
+        },
+        "size": "455 x 252 x 320",
+        "category": "Microwave",
+        "netWeight": "15Kg",
+        "product_img": "./Microwave/id58.jpg",
+        "discription": {
+            "Key_Features": "Anti Bacteria Cavity :It reduces bacteria growth inside the cavity and hence avoids odour formation. It also helps in easy cleaning.",
+            "Additional_Features": "This patented technology ensure faster and healthier cooking by circulating microwaves evenly inside the cavity.",
+            "Feature_Programs": "This feature will help you in locating which button to press next while operating the MWO with the help of text displayed. Need not remember which button to press next. ENERGY SAVING"
+        }
+    },
+    {
+        "id": 59,
+        "brand": "LG",
+        "product_name": "MC28A5147VK",
+        "product_detail": "28L Smart Oven with Moisture Sensor, MC28A5147VK",
+        "capacity": "28L",
+        "color": {
+            "bodyColor": "Black",
+            "doorColor": "Stainless Steel"
+        },
+        "size": "517 x 310 x 475",
+        "category": "Microwave",
+        "netWeight": "15Kg",
+        "product_img": "./Microwave/id59.avif",
+        "discription": {
+            "Key_Features": "Anti Bacteria Cavity :It reduces bacteria growth inside the cavity and hence avoids odour formation. It also helps in easy cleaning.",
+            "Additional_Features": "Enjoy healthier, fried food without the use of a deep fat fryer. Slim Fry™ technology circulates hot air that envelops food.",
+            "Feature_Programs": "With a push of a button Sensor Cook senses the interior air humidity and automatically adjusts the cooking mode and time."
+        }
+    },
+    {
+        "id": 60,
+        "brand": "LG",
+        "product_name": "MC28A5145VR ",
+        "product_detail": "28L Smart Oven with Moisture Sensor, MC28A5145VR",
+        "capacity": "28L",
+        "color": {
+            "bodyColor": "Black",
+            "doorColor": "Stainless Steel"
+        },
+        "size": "517 x 310 x 475.6",
+        "category": "Microwave",
+        "netWeight": "15Kg",
+        "product_img": "./Microwave/id60.avif",
+        "discription": {
+            "Key_Features": "Anti Bacteria Cavity :It reduces bacteria growth inside the cavity and hence avoids odour formation. It also helps in easy cleaning.",
+            "Additional_Features": "With a push of a button Sensor Cook senses the interior air humidity and automatically adjusts the cooking mode and time",
+            "Feature_Programs": "Simply choose from 15 pre-set Cook with Ease menus to prepare perfectly cooked dishes that are healthy, moist and full of flavor."
+        }
     }
 ]
