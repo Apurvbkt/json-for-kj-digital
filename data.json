@@ -1243,5 +1243,405 @@
             "Additional_Features": "With a push of a button Sensor Cook senses the interior air humidity and automatically adjusts the cooking mode and time",
             "Feature_Programs": "Simply choose from 15 pre-set Cook with Ease menus to prepare perfectly cooked dishes that are healthy, moist and full of flavor."
         }
+    },
+    {
+        "id": 61,
+        "brand": "IFB",
+        "product_name": "EC1-BS-HS-90 BF ",
+        "product_detail": "New IFB EC1-BS-HS-90 BF Wall Mounting Chimney 90 cm",
+        "capacity": "90cm",
+        "color": {
+            "bodyColor": "Black",
+            "doorColor": "Stainless Steel"
+        },
+        "size": "500 x 900 x 690",
+        "category": "Chimney",
+        "netWeight": "17Kg",
+        "product_img": "./Chimney/id61.webp",
+        "discription": {
+            "Key_Features": "Aesthetic Finish : Made of stainless steel with front glass, these chimneys look stunning in any kitchen.",
+            "Additional_Features": "Heat Clean with Oil Collector Tray : An inbuilt 80W heater enables trapped oil to drip into a tray, ensuring smooth performance without having to clean the filter frequently.",
+            "Feature_Programs": "Uniform Illumination : High grade LEDs light up the area under the chimney, where the room lighting is dim."
+        }
+    },
+    {
+        "id": 62,
+        "brand": "IFB",
+        "product_name": "GS-HC-60 BLDC",
+        "product_detail": "IFB GS-HC-60 BLDC Wall Mounting Chimney 60 cm",
+        "capacity": "60cm",
+        "color": {
+            "bodyColor": "Black",
+            "doorColor": "Stainless Steel"
+        },
+        "size": "600 x 450 x 555",
+        "category": "Chimney",
+        "netWeight": "15Kg",
+        "product_img": "./Chimney/id62.webp",
+        "discription": {
+            "Key_Features": "Powerful Motor : Exhausts larger volumes of air, enabling better suction of odours, fumes and heat during deep frying to keep kitchen air fresh.",
+            "Additional_Features": "Motor Speed : The Motor Speed varies from F1 to F9, F1 is low & F9 is High Speed. Ensuring Fresh Air Circulation & keeps the cooking space odourless and healthy.",
+            "Feature_Programs": "Recirculation : Perfect for homes where air cannot be vented through a duct. An additonal carbon filter absorbs pollutants and the fresh air is recirculated."
+        }
+    },
+    {
+        "id": 63,
+        "brand": "IFB",
+        "product_name": "EC-BK-HS-90-FL",
+        "product_detail": "IFB EC-BK-HS-90-FL Wall Mounting Chimney 90 cm",
+        "capacity": "90cm",
+        "color": {
+            "bodyColor": "Black",
+            "doorColor": "Stainless Steel"
+        },
+        "size": "865 x 450 x 530",
+        "category": "Chimney",
+        "netWeight": "17Kg",
+        "product_img": "./Chimney/id63.webp",
+        "discription": {
+            "Key_Features": "Heat Clean with Oil Collector Tray : An inbuilt 80W heater enables trapped oil to drip into a tray, ensuring smooth performance without having to clean the filter frequently.",
+            "Additional_Features": "Filterless Airflow : Filterless chimney ensures free flow of air intake which helps in keeping your kitchen smoke & fume free.",
+            "Feature_Programs": "Hand Sensor with Feather Touch : Switch ON the chimney using gesture or touch controls. Avoid touching it with greasy hands."
+        }
+    },
+    {
+        "id": 64,
+        "brand": "IFB",
+        "product_name": "GL-HC-107-60",
+        "product_detail": "IFB GL-HC-107-60 Wall Mounting Chimney 60 cm",
+        "capacity": "60cm",
+        "color": {
+            "bodyColor": "Silver",
+            "doorColor": "Stainless Steel"
+        },
+        "size": "600 x 450 x 555",
+        "category": "Chimney",
+        "netWeight": "10Kg",
+        "product_img": "./Chimney/id64.webp",
+        "discription": {
+            "Key_Features": "Auto Front Glass Opening : Motion hand sensor enables opening of the front glass for air extraction, enhancing the aesthetics of the chimney.",
+            "Additional_Features": "Digital Clock : Displays time of day, enabling precise cooking durations.",
+            "Feature_Programs": "Uniform Illumination : High grade LEDs light up the area under the chimney, where the room lighting is dim."
+        }
+    },
+    {
+        "id": 65,
+        "brand": "IFB",
+        "product_name": "EC1-BS-HS-60 BF",
+        "product_detail": "IFB EC1-BS-HS-60 BF Wall Mounting Chimney 60 cm",
+        "capacity": "60cm",
+        "color": {
+            "bodyColor": "Black",
+            "doorColor": "Stainless Steel"
+        },
+        "size": "600 x 450 x 555",
+        "category": "Chimney",
+        "netWeight": "10Kg",
+        "product_img": "./Chimney/id65.webp",
+        "discription": {
+            "Key_Features": "Aesthetic Finish : Made of stainless steel with front glass, these chimneys look stunning in any kitchen.",
+            "Additional_Features": "Heat Clean with Oil Collector Tray : An inbuilt 80W heater enables trapped oil to drip into a tray, ensuring smooth performance without having to clean the filter frequently.",
+            "Feature_Programs": "Uniform Illumination : High grade LEDs light up the area under the chimney, where the room lighting is dim."
+        }
+    },
+    {
+        "id": 66,
+        "brand": "Haier",
+        "product_name": "HIH-T895",
+        "product_detail": "90 cm, T-Shaped-Smart Hood",
+        "capacity": "90cm",
+        "color": {
+            "bodyColor": "Black",
+            "doorColor": "Stainless Steel"
+        },
+        "size": "895 x 610 x 520",
+        "category": "Chimney",
+        "netWeight": "17Kg",
+        "product_img": "./Chimney/id66.webp",
+        "discription": {
+            "Key_Features": "AIR FLOW : It comes with 1350m³/h suction power and a 90cm tempered glass panel that easily vent out the unwanted smoke in the kitchen",
+            "Additional_Features": "FPA MOTOR : FPA motor ensures stable operation, less vibration, lower noise and guarantees energy saving.",
+            "Feature_Programs": "DEEP PYRAMID CAVITY FILTER : The suction effect of Haier's Deep Pyramid Cavity Design is much faster than that of a traditional hood leaving no space for smoke in your kitchen."
+        }
+    },
+    {
+        "id": 67,
+        "brand": "IFB",
+        "product_name": "GL-HC-107-90",
+        "product_detail": "IFB GL-HC-107-90 Wall Mounting Chimney 90 cm",
+        "capacity": "90cm",
+        "color": {
+            "bodyColor": "Silver",
+            "doorColor": "Stainless Steel"
+        },
+        "size": "895 x 610 x 520",
+        "category": "Chimney",
+        "netWeight": "17Kg",
+        "product_img": "./Chimney/id67.webp",
+        "discription": {
+            "Key_Features": "Auto Front Glass Opening : Motion hand sensor enables opening of the front glass for air extraction, enhancing the aesthetics of the chimney.",
+            "Additional_Features": "Digital Clock : Displays time of day, enabling precise cooking durations.",
+            "Feature_Programs": "Uniform Illumination : High grade LEDs light up the area under the chimney, where the room lighting is dim."
+        }
+    },
+    {
+        "id": 68,
+        "brand": "Haier",
+        "product_name": "HIH-V90HM-P (P1/P2)",
+        "product_detail": "90 cm, Split Vertical-Hood",
+        "capacity": "90cm",
+        "color": {
+            "bodyColor": "Black",
+            "doorColor": "Stainless Steel"
+        },
+        "size": "380 x 310 x 500",
+        "category": "Chimney",
+        "netWeight": "17Kg",
+        "product_img": "./Chimney/id68.webp",
+        "discription": {
+            "Key_Features": "HEAT AUTO CLEAN : The oil/grease melts under high temperature and flows to the oil collector. As a result, it improves the efficiency of the chimney.",
+            "Additional_Features": "FILTERLESS TECHOLOGY : Haier's Filterless Technology helps to get rid of oil and grease with one touch. Thus, it will be easier to clean and maintain your chimneys.",
+            "Feature_Programs": "AIRFLOW : It comes with 1350m³/h suction power and a 90cm tempered glass panel that easily vent out the unwanted smoke in the kitchen."
+        }
+    },
+    {
+        "id": 69,
+        "brand": "Haier",
+        "product_name": "HIH-V90HM-C",
+        "product_detail": "90 cm, Vertical-Hood",
+        "capacity": "90cm",
+        "color": {
+            "bodyColor": "Black",
+            "doorColor": "Stainless Steel"
+        },
+        "size": "900 x 850 x 340",
+        "category": "Chimney",
+        "netWeight": "17Kg",
+        "product_img": "./Chimney/id69.webp",
+        "discription": {
+            "Key_Features": "HEAT AUTO CLEAN : The oil/grease melts under high temperature and flows to the oil collector. As a result, it improves the efficiency of the chimney.",
+            "Additional_Features": "FILTERLESS TECHOLOGY : Haier's Filterless Technology helps to get rid of oil and grease with one touch. Thus, it will be easier to clean and maintain your chimneys.",
+            "Feature_Programs": "AIRFLOW : It comes with 1350m³/h suction power and a 90cm tempered glass panel that easily vent out the unwanted smoke in the kitchen."
+        }
+    },
+    {
+        "id": 70,
+        "brand": "Haier",
+        "product_name": "HIH-T90HM-V",
+        "product_detail": "90 cm, T-Shaped -Hood",
+        "capacity": "90cm",
+        "color": {
+            "bodyColor": "Silver",
+            "doorColor": "Stainless Steel"
+        },
+        "size": "900 x 580 x 450",
+        "category": "Chimney",
+        "netWeight": "17Kg",
+        "product_img": "./Chimney/id70.webp",
+        "discription": {
+            "Key_Features": "HEAT AUTO CLEAN : The oil/grease melts under high temperature and flows to the oil collector. As a result, it improves the efficiency of the chimney.",
+            "Additional_Features": "W SHAPED DOUBLE FILTER : The innovative “W” shaped double filter ensures the oil drops flow into the oil cup freely. As a result, it increases the air intake and filtration area by 110%.",
+            "Feature_Programs": "AIRFLOW : It comes with 1350m³/h suction power and a 90cm tempered glass panel that easily vent out the unwanted smoke in the kitchen."
+        }
+    },
+    {
+        "id": 71,
+        "brand": "Havells",
+        "product_name": "FHCNF5SBRN48",
+        "product_detail": "Efficiencia Neo BLDC | 1200 mm Sweep Brown",
+        "capacity": "1200mm",
+        "color": {
+            "bodyColor": "Brown",
+            "doorColor": "Elegant White, Bianco"
+        },
+        "size": "1200mm",
+        "category": "ceilling-fan",
+        "netWeight": "5Kg",
+        "product_img": "./ceiling-fans/id71.webp",
+        "discription": {
+            "Key_Features": "Power Consumption : Least power consuming fan - 26 W per hour only, Run 3 times longer than regular fan while on invertor power, 65% power saving as compared to a regular fan of 75 W power consumption",
+            "Additional_Features": "Air Delivery & RPM : 220 m³/min Air Delivery, 350 Revolution per minute",
+            "Feature_Programs": "Design : Ribbed blades and beautiful bottom motor cover"
+        }
+    },
+    {
+        "id": 72,
+        "brand": "Havells",
+        "product_name": "FHCAQSTSBW52",
+        "product_detail": "Albus UL | 1320 mm Sweep Smoke Brown Wood",
+        "capacity": "1320mm",
+        "color": {
+            "bodyColor": "Brown",
+            "doorColor": "Elegant White, Bianco"
+        },
+        "size": "1320mm",
+        "category": "ceilling-fan",
+        "netWeight": "5Kg",
+        "product_img": "./ceiling-fans/id72.webp",
+        "discription": {
+            "Key_Features": "Low Noise",
+            "Additional_Features": "100% Copper Wire Winding Motor",
+            "Feature_Programs": "Design : Ribbed blades and beautiful bottom motor cover"
+        }
+    },
+    {
+        "id": 73,
+        "brand": "Havells",
+        "product_name": "FHCFQSTSBW52",
+        "product_detail": "Florette UL BLDC+ | 1320 mm Sweep Smoke Brown Wood",
+        "capacity": "1320mm",
+        "color": {
+            "bodyColor": "Smoke Brown Wood",
+            "doorColor": "Smoke Brown Wood"
+        },
+        "size": "1320mm",
+        "category": "ceilling-fan",
+        "netWeight": "5Kg",
+        "product_img": "./ceiling-fans/id73.webp",
+        "discription": {
+            "Key_Features": "RF remote control for all direction sensing",
+            "Additional_Features": "Underlight with Colour changing tech",
+            "Feature_Programs": "Side changeable Premium MDF blades to suit your home décor"
+        }
+    },
+    {
+        "id": 74,
+        "brand": "Havells",
+        "product_name": "FHCFVSTSBW52",
+        "product_detail": "Florette BLDC+ | 1320 mm Sweep Smoke Brown Wood",
+        "capacity": "1320mm",
+        "color": {
+            "bodyColor": "Smoke Brown Wood",
+            "doorColor": "Smoke Brown Wood"
+        },
+        "size": "1320mm",
+        "category": "ceilling-fan",
+        "netWeight": "5Kg",
+        "product_img": "./ceiling-fans/id74.webp",
+        "discription": {
+            "Key_Features": "Unique 4 blade design",
+            "Additional_Features": "RF remote control for all direction sensing",
+            "Feature_Programs": "Low Noise"
+        }
+    },
+    {
+        "id": 75,
+        "brand": "Havells",
+        "product_name": "FHCCB5SCHL48",
+        "product_detail": "Crista BLDC+ | 1200 mm Sweep Champagne Cola",
+        "capacity": "1200mm",
+        "color": {
+            "bodyColor": "Smoke Brown Wood",
+            "doorColor": "Smoke Brown Wood"
+        },
+        "size": "1200mm",
+        "category": "ceilling-fan",
+        "netWeight": "5Kg",
+        "product_img": "./ceiling-fans/id75.webp",
+        "discription": {
+            "Key_Features": "Dust Resistant coating on the blades",
+            "Additional_Features": "100% Copper Wire Winding Motor",
+            "Feature_Programs": "Dust Resistant Lacquering"
+        }
+    },
+    {
+        "id": 76,
+        "brand": "USHA",
+        "product_name": "Striker-Galaxy",
+        "product_detail": "Aerodynamically designed blades",
+        "capacity": "1200mm",
+        "color": {
+            "bodyColor": "Bright Gold",
+            "doorColor": "Bright Gold"
+        },
+        "size": "1200mm",
+        "category": "ceilling-fan",
+        "netWeight": "5Kg",
+        "product_img": "./ceiling-fans/id76.png",
+        "discription": {
+            "Key_Features": "Aerodynamically designed blades",
+            "Additional_Features": "Lacquer metallic paint",
+            "Feature_Programs": "V2 grade ball bearing for whisper quiet operation and durability"
+        }
+    },
+    {
+        "id": 77,
+        "brand": "USHA",
+        "product_name": "Striker-Platinum",
+        "product_detail": "Striker Platinum Ceiling Fan",
+        "capacity": "1200mm",
+        "color": {
+            "bodyColor": "carbon grey",
+            "doorColor": "carbon grey"
+        },
+        "size": "1200mm",
+        "category": "ceilling-fan",
+        "netWeight": "5Kg",
+        "product_img": "./ceiling-fans/id77.png",
+        "discription": {
+            "Key_Features": "Aerodynamically designed blades",
+            "Additional_Features": "Lacquer metallic paint",
+            "Feature_Programs": "V2 grade ball bearing for whisper quiet operation and durability"
+        }
+    },
+    {
+        "id": 78,
+        "brand": "USHA",
+        "product_name": "Super-Striker",
+        "product_detail": "Super Striker Ceiling Fan",
+        "capacity": "1200mm",
+        "color": {
+            "bodyColor": "charcol",
+            "doorColor": "charcol"
+        },
+        "size": "1200mm",
+        "category": "ceilling-fan",
+        "netWeight": "5Kg",
+        "product_img": "./ceiling-fans/id78.png",
+        "discription": {
+            "Key_Features": "Aerodynamically designed blades",
+            "Additional_Features": "Lacquer metallic paint",
+            "Feature_Programs": "V2 grade ball bearing for whisper quiet operation and durability"
+        }
+    },
+    {
+        "id": 79,
+        "brand": "USHA",
+        "product_name": "Super-Striker",
+        "product_detail": "Super Striker Ceiling Fan",
+        "capacity": "1200mm",
+        "color": {
+            "bodyColor": "charcol",
+            "doorColor": "charcol"
+        },
+        "size": "1200mm",
+        "category": "ceilling-fan",
+        "netWeight": "5Kg",
+        "product_img": "./ceiling-fans/id79.png",
+        "discription": {
+            "Key_Features": "Aerodynamically designed blades",
+            "Additional_Features": "Lacquer metallic paint",
+            "Feature_Programs": "V2 grade ball bearing for whisper quiet operation and durability"
+        }
+    },
+    {
+        "id": 80,
+        "brand": "USHA",
+        "product_name": "Striker Millennium",
+        "product_detail": "Striker Millennium Ceiling Fan",
+        "capacity": "1200mm",
+        "color": {
+            "bodyColor": "Dark Brown",
+            "doorColor": "Dark Brown"
+        },
+        "size": "1200mm",
+        "category": "ceilling-fan",
+        "netWeight": "5Kg",
+        "product_img": "./ceiling-fans/id80.png",
+        "discription": {
+            "Key_Features": "Aerodynamically designed blades",
+            "Additional_Features": "Lacquer metallic paint",
+            "Feature_Programs": "V2 grade ball bearing for whisper quiet operation and durability"
+        }
     }
 ]
