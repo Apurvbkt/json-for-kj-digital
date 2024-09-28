@@ -1457,7 +1457,7 @@
         "size": "1200mm",
         "category": "ceilling-fan",
         "netWeight": "5Kg",
-        "product_img": "./ceiling-fans/id71.webp",
+        "product_img": "./ceilingFans/id71.webp",
         "discription": {
             "Key_Features": "Power Consumption : Least power consuming fan - 26 W per hour only, Run 3 times longer than regular fan while on invertor power, 65% power saving as compared to a regular fan of 75 W power consumption",
             "Additional_Features": "Air Delivery & RPM : 220 m³/min Air Delivery, 350 Revolution per minute",
@@ -1477,7 +1477,7 @@
         "size": "1320mm",
         "category": "ceilling-fan",
         "netWeight": "5Kg",
-        "product_img": "./ceiling-fans/id72.webp",
+        "product_img": "./ceilingFans/id72.webp",
         "discription": {
             "Key_Features": "Low Noise",
             "Additional_Features": "100% Copper Wire Winding Motor",
@@ -1497,7 +1497,7 @@
         "size": "1320mm",
         "category": "ceilling-fan",
         "netWeight": "5Kg",
-        "product_img": "./ceiling-fans/id73.webp",
+        "product_img": "./ceilingFans/id73.webp",
         "discription": {
             "Key_Features": "RF remote control for all direction sensing",
             "Additional_Features": "Underlight with Colour changing tech",
@@ -1517,7 +1517,7 @@
         "size": "1320mm",
         "category": "ceilling-fan",
         "netWeight": "5Kg",
-        "product_img": "./ceiling-fans/id74.webp",
+        "product_img": "./ceilingFans/id74.webp",
         "discription": {
             "Key_Features": "Unique 4 blade design",
             "Additional_Features": "RF remote control for all direction sensing",
@@ -1537,7 +1537,7 @@
         "size": "1200mm",
         "category": "ceilling-fan",
         "netWeight": "5Kg",
-        "product_img": "./ceiling-fans/id75.webp",
+        "product_img": "./ceilingFans/id75.webp",
         "discription": {
             "Key_Features": "Dust Resistant coating on the blades",
             "Additional_Features": "100% Copper Wire Winding Motor",
@@ -1557,7 +1557,7 @@
         "size": "1200mm",
         "category": "ceilling-fan",
         "netWeight": "5Kg",
-        "product_img": "./ceiling-fans/id76.png",
+        "product_img": "./ceilingFans/id76.png",
         "discription": {
             "Key_Features": "Aerodynamically designed blades",
             "Additional_Features": "Lacquer metallic paint",
@@ -1577,7 +1577,7 @@
         "size": "1200mm",
         "category": "ceilling-fan",
         "netWeight": "5Kg",
-        "product_img": "./ceiling-fans/id77.png",
+        "product_img": "./ceilingFans/id77.png",
         "discription": {
             "Key_Features": "Aerodynamically designed blades",
             "Additional_Features": "Lacquer metallic paint",
@@ -1597,7 +1597,7 @@
         "size": "1200mm",
         "category": "ceilling-fan",
         "netWeight": "5Kg",
-        "product_img": "./ceiling-fans/id78.png",
+        "product_img": "./ceilingFans/id78.png",
         "discription": {
             "Key_Features": "Aerodynamically designed blades",
             "Additional_Features": "Lacquer metallic paint",
@@ -1607,8 +1607,8 @@
     {
         "id": 79,
         "brand": "USHA",
-        "product_name": "Super-Striker",
-        "product_detail": "Super Striker Ceiling Fan",
+        "product_name": "Super-one",
+        "product_detail": "Striker One Ceiling Fan",
         "capacity": "1200mm",
         "color": {
             "bodyColor": "charcol",
@@ -1617,7 +1617,7 @@
         "size": "1200mm",
         "category": "ceilling-fan",
         "netWeight": "5Kg",
-        "product_img": "./ceiling-fans/id79.png",
+        "product_img": "./ceilingFans/id79.png",
         "discription": {
             "Key_Features": "Aerodynamically designed blades",
             "Additional_Features": "Lacquer metallic paint",
@@ -1637,11 +1637,211 @@
         "size": "1200mm",
         "category": "ceilling-fan",
         "netWeight": "5Kg",
-        "product_img": "./ceiling-fans/id80.png",
+        "product_img": "./ceilingFans/id80.png",
         "discription": {
             "Key_Features": "Aerodynamically designed blades",
             "Additional_Features": "Lacquer metallic paint",
             "Feature_Programs": "V2 grade ball bearing for whisper quiet operation and durability"
+        }
+    },
+    {
+        "id": 81,
+        "brand": "Samsung",
+        "product_name": "Crystal UHD AU8000",
+        "product_detail": "Samsung 55 inch Crystal UHD 4K Smart TV",
+        "capacity": "55 inches",
+        "color": {
+            "bodyColor": "Black",
+            "doorColor": "Black"
+        },
+        "size": "55 inches",
+        "category": "television",
+        "netWeight": "16Kg",
+        "product_img": "./Tv/img81.webp",
+        "discription": {
+            "Key_Features": "4K UHD, HDR10+",
+            "Additional_Features": "Samsung Smart Hub, Voice Assistant",
+            "Feature_Programs": "Dynamic Crystal Color, Auto Game Mode"
+        }
+    },
+    {
+        "id": 82,
+        "brand": "Samsung",
+        "product_name": "QLED Q60A",
+        "product_detail": "Samsung 50 inch QLED Smart TV",
+        "capacity": "50 inches",
+        "color": {
+            "bodyColor": "Silver",
+            "doorColor": "Silver"
+        },
+        "size": "50 inches",
+        "category": "television",
+        "netWeight": "15Kg",
+        "product_img": "./Tv/img82.webp",
+        "discription": {
+            "Key_Features": "Quantum HDR, Dual LED",
+            "Additional_Features": "Samsung Smart Hub, Voice Assistant",
+            "Feature_Programs": "Motion Rate 120, Game Mode"
+        }
+    },
+    {
+        "id": 83,
+        "brand": "Samsung",
+        "product_name": "The Frame",
+        "product_detail": "Samsung 65 inch 4K QLED Smart TV",
+        "capacity": "65 inches",
+        "color": {
+            "bodyColor": "Black",
+            "doorColor": "Black"
+        },
+        "size": "65 inches",
+        "category": "television",
+        "netWeight": "18Kg",
+        "product_img": "./Tv/img83.webp",
+        "discription": {
+            "Key_Features": "Art Mode, QLED 4K, HDR10+",
+            "Additional_Features": "Customizable Frame, Voice Control",
+            "Feature_Programs": "Quantum Processor 4K, Ambient Mode+"
+        }
+    },
+    {
+        "id": 84,
+        "brand": "Samsung",
+        "product_name": "The Serif",
+        "product_detail": "Samsung 43 inch QLED Smart TV",
+        "capacity": "43 inches",
+        "color": {
+            "bodyColor": "Cloud White",
+            "doorColor": "Cloud White"
+        },
+        "size": "43 inches",
+        "category": "television",
+        "netWeight": "12Kg",
+        "product_img": "./Tv/img84.jpg",
+        "discription": {
+            "Key_Features": "QLED 4K, HDR10+",
+            "Additional_Features": "Iconic Design, Smart TV",
+            "Feature_Programs": "NFC on TV, Active Voice Amplifier"
+        }
+    },
+    {
+        "id": 85,
+        "brand": "Samsung",
+        "product_name": "Neo QLED QN90A",
+        "product_detail": "Samsung 75 inch Neo QLED 4K Smart TV",
+        "capacity": "75 inches",
+        "color": {
+            "bodyColor": "Black",
+            "doorColor": "Black"
+        },
+        "size": "75 inches",
+        "category": "television",
+        "netWeight": "30Kg",
+        "product_img": "./Tv/img85.jpg",
+        "discription": {
+            "Key_Features": "Neo QLED, Quantum HDR 32X",
+            "Additional_Features": "Object Tracking Sound, Alexa Built-in",
+            "Feature_Programs": "100% Color Volume, Ultra Viewing Angle"
+        }
+    },
+    {
+        "id": 86,
+        "brand": "LG",
+        "product_name": "OLED C1",
+        "product_detail": "LG 65 inch OLED 4K Smart TV",
+        "capacity": "65 inches",
+        "color": {
+            "bodyColor": "Black",
+            "doorColor": "Black"
+        },
+        "size": "65 inches",
+        "category": "television",
+        "netWeight": "20Kg",
+        "product_img": "./Tv/img86.jpg",
+        "discription": {
+            "Key_Features": "OLED Display, Dolby Vision IQ",
+            "Additional_Features": "AI ThinQ, Google Assistant",
+            "Feature_Programs": "NVIDIA G-Sync, Low Input Lag"
+        }
+    },
+    {
+        "id": 87,
+        "brand": "LG",
+        "product_name": "NanoCell 90 Series",
+        "product_detail": "LG 55 inch NanoCell 4K Smart TV",
+        "capacity": "55 inches",
+        "color": {
+            "bodyColor": "Black",
+            "doorColor": "Black"
+        },
+        "size": "55 inches",
+        "category": "television",
+        "netWeight": "17Kg",
+        "product_img": "./Tv/img87.jpg",
+        "discription": {
+            "Key_Features": "NanoCell Display, Dolby Vision",
+            "Additional_Features": "WebOS Smart TV, Google Assistant",
+            "Feature_Programs": "Full Array Dimming, 120Hz Refresh Rate"
+        }
+    },
+    {
+        "id": 88,
+        "brand": "LG",
+        "product_name": "UHD UP8000",
+        "product_detail": "LG 50 inch 4K UHD Smart TV",
+        "capacity": "50 inches",
+        "color": {
+            "bodyColor": "Black",
+            "doorColor": "Black"
+        },
+        "size": "50 inches",
+        "category": "television",
+        "netWeight": "15Kg",
+        "product_img": "./Tv/img88.jpg",
+        "discription": {
+            "Key_Features": "4K UHD, HDR10",
+            "Additional_Features": "AI ThinQ, Voice Control",
+            "Feature_Programs": "Game Optimizer, TruMotion 120"
+        }
+    },
+    {
+        "id": 89,
+        "brand": "LG",
+        "product_name": "NanoCell 85 Series",
+        "product_detail": "LG 75 inch NanoCell 4K Smart TV",
+        "capacity": "75 inches",
+        "color": {
+            "bodyColor": "Black",
+            "doorColor": "Black"
+        },
+        "size": "75 inches",
+        "category": "television",
+        "netWeight": "29Kg",
+        "product_img": "./Tv/img89.jpg",
+        "discription": {
+            "Key_Features": "NanoCell Display, Dolby Atmos",
+            "Additional_Features": "AI ThinQ, WebOS Smart TV",
+            "Feature_Programs": "Local Dimming, Magic Remote"
+        }
+    },
+    {
+        "id": 90,
+        "brand": "LG",
+        "product_name": "OLED A1",
+        "product_detail": "LG 55 inch OLED 4K Smart TV",
+        "capacity": "55 inches",
+        "color": {
+            "bodyColor": "Black",
+            "doorColor": "Black"
+        },
+        "size": "55 inches",
+        "category": "television",
+        "netWeight": "18Kg",
+        "product_img": "./Tv/img90.jpg",
+        "discription": {
+            "Key_Features": "OLED Display, Dolby Vision IQ",
+            "Additional_Features": "AI ThinQ, Google Assistant",
+            "Feature_Programs": "Low Input Lag, Filmmaker Mode"
         }
     }
 ]
