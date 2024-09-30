@@ -1843,5 +1843,305 @@
             "Additional_Features": "AI ThinQ, Google Assistant",
             "Feature_Programs": "Low Input Lag, Filmmaker Mode"
         }
+    },
+    {
+        "id": 91,
+        "brand": "Bajaj",
+        "product_name": "Midea BP04",
+        "product_detail": "Bajaj Midea BP04 Table Fan",
+        "capacity": "400mm",
+        "color": {
+            "bodyColor": "White",
+            "doorColor": "White"
+        },
+        "size": "400mm",
+        "category": "table-fan",
+        "netWeight": "3.5Kg",
+        "product_img": "./Table_fan/id_91.png",
+        "discription": {
+            "Key_Features": "High speed and energy efficient",
+            "Additional_Features": "Overload thermal protector",
+            "Feature_Programs": "Rust-free powder coated finish"
+        }
+    },
+    {
+        "id": 92,
+        "brand": "Bajaj",
+        "product_name": "Ultima PT01",
+        "product_detail": "Bajaj Ultima PT01 Table Fan",
+        "capacity": "300mm",
+        "color": {
+            "bodyColor": "Blue",
+            "doorColor": "Blue"
+        },
+        "size": "300mm",
+        "category": "table-fan",
+        "netWeight": "2.8Kg",
+        "product_img": "./Table_fan/id_92.png",
+        "discription": {
+            "Key_Features": "Compact and powerful",
+            "Additional_Features": "Ergonomic design",
+            "Feature_Programs": "Silent operation"
+        }
+    },
+    {
+        "id": 93,
+        "brand": "Bajaj",
+        "product_name": "Elite Neo",
+        "product_detail": "Bajaj Elite Neo Table Fan",
+        "capacity": "400mm",
+        "color": {
+            "bodyColor": "Black",
+            "doorColor": "Black"
+        },
+        "size": "400mm",
+        "category": "table-fan",
+        "netWeight": "3.2Kg",
+        "product_img": "./Table_fan/id_93.png",
+        "discription": {
+            "Key_Features": "High airflow with wide blades",
+            "Additional_Features": "Three-speed control",
+            "Feature_Programs": "Stable base for better performance"
+        }
+    },
+    {
+        "id": 94,
+        "brand": "Crompton",
+        "product_name": "HiFlo Wave",
+        "product_detail": "Crompton HiFlo Wave Table Fan",
+        "capacity": "400mm",
+        "color": {
+            "bodyColor": "White",
+            "doorColor": "White"
+        },
+        "size": "400mm",
+        "category": "table-fan",
+        "netWeight": "3.6Kg",
+        "product_img": "./Table_fan/id_94.png",
+        "discription": {
+            "Key_Features": "Efficient air delivery",
+            "Additional_Features": "High-performance motor",
+            "Feature_Programs": "Durable plastic body"
+        }
+    },
+    {
+        "id": 95,
+        "brand": "Crompton",
+        "product_name": "Breeze Table Fan",
+        "product_detail": "Crompton Breeze Table Fan",
+        "capacity": "300mm",
+        "color": {
+            "bodyColor": "Grey",
+            "doorColor": "Grey"
+        },
+        "size": "300mm",
+        "category": "table-fan",
+        "netWeight": "2.9Kg",
+        "product_img": "./Table_fan/id_95.png",
+        "discription": {
+            "Key_Features": "Compact with powerful motor",
+            "Additional_Features": "Rust-free blades",
+            "Feature_Programs": "Three-speed setting"
+        }
+    },
+    {
+        "id": 96,
+        "brand": "Crompton",
+        "product_name": "Airmaster Neo",
+        "product_detail": "Crompton Airmaster Neo Table Fan",
+        "capacity": "400mm",
+        "color": {
+            "bodyColor": "White",
+            "doorColor": "White"
+        },
+        "size": "400mm",
+        "category": "table-fan",
+        "netWeight": "3.4Kg",
+        "product_img": "./Table_fan/id_96.png",
+        "discription": {
+            "Key_Features": "High-speed performance",
+            "Additional_Features": "Ergonomic control knob",
+            "Feature_Programs": "Smooth oscillation"
+        }
+    },
+    {
+        "id": 97,
+        "brand": "Havells",
+        "product_name": "Sprint LED",
+        "product_detail": "Havells Sprint LED Table Fan",
+        "capacity": "400mm",
+        "color": {
+            "bodyColor": "White",
+            "doorColor": "White"
+        },
+        "size": "400mm",
+        "category": "table-fan",
+        "netWeight": "3.7Kg",
+        "product_img": "./Table_fan/id_97.png",
+        "discription": {
+            "Key_Features": "LED indicator for speed",
+            "Additional_Features": "High-speed motor",
+            "Feature_Programs": "Low power consumption"
+        }
+    },
+    {
+        "id": 98,
+        "brand": "Havells",
+        "product_name": "Swing LX",
+        "product_detail": "Havells Swing LX Table Fan",
+        "capacity": "300mm",
+        "color": {
+            "bodyColor": "Blue",
+            "doorColor": "Blue"
+        },
+        "size": "300mm",
+        "category": "table-fan",
+        "netWeight": "2.9Kg",
+        "product_img": "./Table_fan/id_98.png",
+        "discription": {
+            "Key_Features": "Portable with stable base",
+            "Additional_Features": "High-speed oscillation",
+            "Feature_Programs": "Durable plastic body"
+        }
+    },
+    {
+        "id": 99,
+        "brand": "Havells",
+        "product_name": "V3 Yurbo",
+        "product_detail": "Havells V3 Yurbo Table Fan",
+        "capacity": "400mm",
+        "color": {
+            "bodyColor": "Black",
+            "doorColor": "Black"
+        },
+        "size": "400mm",
+        "category": "table-fan",
+        "netWeight": "3.5Kg",
+        "product_img": "./Table_fan/id_99.png",
+        "discription": {
+            "Key_Features": "Aerodynamically designed blades",
+            "Additional_Features": "Powerful motor for superior airflow",
+            "Feature_Programs": "Noiseless operation"
+        }
+    },
+    {
+        "id": 100,
+        "brand": "Usha",
+        "product_name": "Maxx Air",
+        "product_detail": "Usha Maxx Air Table Fan",
+        "capacity": "400mm",
+        "color": {
+            "bodyColor": "White",
+            "doorColor": "White"
+        },
+        "size": "400mm",
+        "category": "table-fan",
+        "netWeight": "3.6Kg",
+        "product_img": "./Table_fan/id_100.png",
+        "discription": {
+            "Key_Features": "Efficient air delivery",
+            "Additional_Features": "Low power consumption",
+            "Feature_Programs": "Sturdy base for smooth performance"
+        }
+    },
+    {
+        "id": 101,
+        "brand": "Usha",
+        "product_name": "Stellar QT",
+        "product_detail": "Usha Stellar QT Table Fan",
+        "capacity": "300mm",
+        "color": {
+            "bodyColor": "Blue",
+            "doorColor": "Blue"
+        },
+        "size": "300mm",
+        "category": "table-fan",
+        "netWeight": "2.8Kg",
+        "product_img": "./Table_fan/id_101.png",
+        "discription": {
+            "Key_Features": "Compact and efficient",
+            "Additional_Features": "Aerodynamic blades",
+            "Feature_Programs": "Low noise operation"
+        }
+    },
+    {
+        "id": 102,
+        "brand": "Usha",
+        "product_name": "Duospeed",
+        "product_detail": "Usha Duospeed Table Fan",
+        "capacity": "400mm",
+        "color": {
+            "bodyColor": "Black",
+            "doorColor": "Black"
+        },
+        "size": "400mm",
+        "category": "table-fan",
+        "netWeight": "3.4Kg",
+        "product_img": "./Table_fan/id_102.png",
+        "discription": {
+            "Key_Features": "Dual-speed control",
+            "Additional_Features": "Efficient cooling",
+            "Feature_Programs": "Silent operation"
+        }
+    },
+    {
+        "id": 103,
+        "brand": "Bajaj",
+        "product_name": "Midea XP",
+        "product_detail": "Bajaj Midea XP Table Fan",
+        "capacity": "350mm",
+        "color": {
+            "bodyColor": "White",
+            "doorColor": "White"
+        },
+        "size": "350mm",
+        "category": "table-fan",
+        "netWeight": "3.1Kg",
+        "product_img": "./Table_fan/id_103.png",
+        "discription": {
+            "Key_Features": "High-speed cooling",
+            "Additional_Features": "Tilt mechanism",
+            "Feature_Programs": "Energy-efficient"
+        }
+    },
+    {
+        "id": 104,
+        "brand": "Crompton",
+        "product_name": "Whirlwind",
+        "product_detail": "Crompton Whirlwind Table Fan",
+        "capacity": "450mm",
+        "color": {
+            "bodyColor": "Red",
+            "doorColor": "Red"
+        },
+        "size": "450mm",
+        "category": "table-fan",
+        "netWeight": "4.2Kg",
+        "product_img": "./Table_fan/id_104.png",
+        "discription": {
+            "Key_Features": "Powerful motor for wide airflow",
+            "Additional_Features": "Three-speed control",
+            "Feature_Programs": "Aerodynamic design"
+        }
+    },
+    {
+        "id": 105,
+        "brand": "Usha",
+        "product_name": "Striker HT",
+        "product_detail": "Usha Striker HT Table Fan",
+        "capacity": "400mm",
+        "color": {
+            "bodyColor": "Brown",
+            "doorColor": "Brown"
+        },
+        "size": "400mm",
+        "category": "table-fan",
+        "netWeight": "3.9Kg",
+        "product_img": "./Table_fan/id_105.png",
+        "discription": {
+            "Key_Features": "High-speed cooling with ergonomic design",
+            "Additional_Features": "Stable base for improved performance",
+            "Feature_Programs": "Noise-free operation"
+        }
     }
 ]
